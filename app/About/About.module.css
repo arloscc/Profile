@@ -1,0 +1,81 @@
+.About {
+  font-family: var(--shadows_Into_Light);
+  position: absolute;
+  z-index: 1;
+}
+
+.Me{
+  font-family: var(--font-whisper);
+  font-size: 2.6rem;
+  font-weight: 400;
+}
+
+.Aboutbr {
+  justify-content: center;
+  display: flex;
+  margin: rem 0;
+  align-items: center;
+  height:43rem;
+}
+
+.prf{
+  width: 90%;
+}
+
+.text2 {
+  font-family: var(--poppins);
+  width: 50%;
+}
+
+.Image {
+  clip-path: circle();
+  height: 300px;
+  width: 500px;
+}
+
+.vline{
+  border-right: 2px solid black;
+  height: 9rem;
+    position: absolute;
+    margin: 63rem 88rem 0 0;
+}
+
+.cap{
+  width: 4%;
+  background-color: rgb(7, 2, 51);
+  clip-path: circle();
+  padding: 1.5rem;
+  color: white;
+  justify-content: center;
+  
+  
+}
+.cap > path{
+  color: white;
+
+  
+}
+
+.school{
+  font-family: var(--poppins);
+  font-size: 1.5rem;
+  padding-bottom: 10rem;
+  align-items: center;
+  display: flex;
+}
+
+.texta{
+  padding: 1rem;
+}
+
+.carrier{
+  justify-content: center;
+  display: grid;
+  right: 16rem;
+  position: relative;
+}
+
+.box{
+  width: 80%;
+}
+
